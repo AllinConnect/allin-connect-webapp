@@ -95,7 +95,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
-              <div className="inline-flex items-center gap-3 bg-gradient-to-r from-red-500/20 to-red-600/20 backdrop-blur-sm border-2 border-red-500/50 text-red-400 px-6 py-3 rounded-full text-sm font-bold shadow-xl shadow-red-500/20">
+              <div className="inline-flex items-center gap-3 bg-gradient-to-r from-white-500/20 to-white-600/20 backdrop-blur-sm border-2 border-white-500/50 text-white-400 px-6 py-3 rounded-full text-sm font-bold shadow-xl shadow-white-500/20">
                 <Sparkles size={20} />
                 ÉCONOMISE JUSQUA 500€ PAR AN
               </div>
@@ -107,7 +107,7 @@ export default function Home() {
               </h1>
 
               <p className="text-2xl text-gray-300 leading-relaxed font-medium">
-                Rejoins le <span className="text-red-500 font-bold">CLUB10</span> et profite de <span className="text-red-500 font-bold">-10%</span> chez + de <span className="text-red-500 font-bold">100 commerces</span> partenaires !
+                Rejoins le <span className="text-white-500 font-bold">CLUB10</span> et profite de <span className="text-white-500 font-bold">-10%</span> chez + de <span className="text-white-500 font-bold">100 commerces</span> partenaires !
               </p>
 
               <button className="bg-gradient-to-r from-red-600 to-red-500 text-white px-10 py-5 rounded-xl font-black text-lg hover:shadow-2xl hover:shadow-red-500/50 transition-all uppercase flex items-center gap-3">
