@@ -97,7 +97,7 @@ export default function Home() {
             <div className="space-y-8">
               <div className="inline-flex items-center gap-3 bg-gradient-to-r from-red-500/20 to-red-600/20 backdrop-blur-sm border-2 border-red-500/50 text-red-400 px-6 py-3 rounded-full text-sm font-bold shadow-xl shadow-red-500/20">
                 <Sparkles size={20} />
-                ÉCONOMISE JUSQU'À 500€ PAR AN
+                ÉCONOMISE JUSQUA 500€ PAR AN
               </div>
 
               <h1 className="text-6xl lg:text-8xl font-black leading-tight tracking-tight">
